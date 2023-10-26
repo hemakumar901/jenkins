@@ -18,7 +18,7 @@ stage ('delpoy')
 {
     steps
 {
-echo'hi i am good what about you' 
+echo'hi i am good what about you fine' 
 }
     }
 
